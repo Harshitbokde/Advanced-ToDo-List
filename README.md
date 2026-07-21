@@ -25,7 +25,8 @@ A modern To-Do List web application built using HTML, CSS and JavaScript.
 
 ## 📸 Screenshot
 
-(Add a screenshot of your project here)
+<img width="945" height="995" alt="Screenshot 2026-07-21 154954" src="https://github.com/user-attachments/assets/e218d7b1-8208-4b59-b62d-e932ffbb0ace" />
+
 
 ## 👨‍💻 Author
 
